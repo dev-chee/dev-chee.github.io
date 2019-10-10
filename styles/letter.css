@@ -1,0 +1,34 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.sender-column-italic {
+    text-align: right;
+    font-style: italic;
+}
+
+.sender-column {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+p, ul, ol, dl, address {
+    font-size: 1.1em;
+}
+
+p, li, dd, dt, address {
+    line-height: 1.5;
+}
